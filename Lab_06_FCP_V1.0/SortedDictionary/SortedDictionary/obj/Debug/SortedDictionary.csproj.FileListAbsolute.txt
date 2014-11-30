@@ -1,0 +1,15 @@
+C:\Users\F\Desktop\School\CS 2450\SortedDictionary\SortedDictionary\bin\Debug\SortedDictionary.exe.config
+C:\Users\F\Desktop\School\CS 2450\SortedDictionary\SortedDictionary\bin\Debug\SortedDictionary.exe
+C:\Users\F\Desktop\School\CS 2450\SortedDictionary\SortedDictionary\bin\Debug\SortedDictionary.pdb
+C:\Users\F\Desktop\School\CS 2450\SortedDictionary\SortedDictionary\obj\Debug\SortedDictionary.csprojResolveAssemblyReference.cache
+C:\Users\F\Desktop\School\CS 2450\SortedDictionary\SortedDictionary\obj\Debug\SortedDictionary.exe
+C:\Users\F\Desktop\School\CS 2450\SortedDictionary\SortedDictionary\obj\Debug\SortedDictionary.pdb
+C:\Users\F\Desktop\School\CS 3260\LabZ_06_FCP_V1.0\SortedDictionary\SortedDictionary\bin\Debug\SortedDictionary.exe.config
+C:\Users\F\Desktop\School\CS 3260\LabZ_06_FCP_V1.0\SortedDictionary\SortedDictionary\obj\Debug\SortedDictionary.exe
+C:\Users\F\Desktop\School\CS 3260\LabZ_06_FCP_V1.0\SortedDictionary\SortedDictionary\obj\Debug\SortedDictionary.pdb
+C:\Users\F\Desktop\School\CS 3260\Lab_06_FCP_V1.0\SortedDictionary\SortedDictionary\bin\Debug\SortedDictionary.exe.config
+C:\Users\F\Desktop\School\CS 3260\Lab_06_FCP_V1.0\SortedDictionary\SortedDictionary\obj\Debug\SortedDictionary.exe
+C:\Users\F\Desktop\School\CS 3260\Lab_06_FCP_V1.0\SortedDictionary\SortedDictionary\obj\Debug\SortedDictionary.pdb
+C:\Users\F\Desktop\School\CS 3260\Lab_06_FCP_V1.0\SortedDictionary\SortedDictionary\bin\Debug\SortedDictionary.exe
+C:\Users\F\Desktop\School\CS 3260\Lab_06_FCP_V1.0\SortedDictionary\SortedDictionary\bin\Debug\SortedDictionary.pdb
+C:\Users\F\Desktop\School\CS 3260\Lab_06_FCP_V1.0\SortedDictionary\SortedDictionary\obj\Debug\SortedDictionary.csprojResolveAssemblyReference.cache

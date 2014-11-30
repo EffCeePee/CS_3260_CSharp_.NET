@@ -1,0 +1,34 @@
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\Quantifiers\Quantifiers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\Quantifiers\Quantifiers\bin\Debug\Customers.xml
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\Quantifiers\Quantifiers\bin\Debug\Quantifiers.exe
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\Quantifiers\Quantifiers\bin\Debug\Quantifiers.pdb
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\Quantifiers\Quantifiers\obj\x86\Debug\Quantifiers.exe
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\Quantifiers\Quantifiers\obj\x86\Debug\Quantifiers.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\Quantifiers\Quantifiers\obj\x86\Debug\Quantifiers.exe
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\Quantifiers\Quantifiers\obj\x86\Debug\Quantifiers.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\Quantifiers\Quantifiers\bin\Debug\Customers.xml
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\Quantifiers\Quantifiers\bin\Debug\Quantifiers.exe
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\Quantifiers\Quantifiers\bin\Debug\Quantifiers.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\Quantifiers\Quantifiers\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Summer 2012\CS3260\Example Code\LINQ\LINQ - Quantifiers\C#\Quantifiers\obj\x86\Debug\Quantifiers.exe
+K:\Summer 2012\CS3260\Example Code\LINQ\LINQ - Quantifiers\C#\Quantifiers\obj\x86\Debug\Quantifiers.pdb
+K:\Summer 2012\CS3260\Example Code\LINQ\LINQ - Quantifiers\C#\Quantifiers\bin\Debug\Customers.xml
+K:\Summer 2012\CS3260\Example Code\LINQ\LINQ - Quantifiers\C#\Quantifiers\bin\Debug\Quantifiers.exe
+K:\Summer 2012\CS3260\Example Code\LINQ\LINQ - Quantifiers\C#\Quantifiers\bin\Debug\Quantifiers.pdb
+G:\Spring 2013\CS3260\Example Programs\LINQ\LINQ - Quantifiers\C#\Quantifiers\obj\x86\Debug\Quantifiers.exe
+G:\Spring 2013\CS3260\Example Programs\LINQ\LINQ - Quantifiers\C#\Quantifiers\obj\x86\Debug\Quantifiers.pdb
+K:\Summer 2013\CS3260\Example Progs\LINQ\LINQ - Quantifiers\C#\Quantifiers\obj\x86\Debug\Quantifiers.exe
+K:\Summer 2013\CS3260\Example Progs\LINQ\LINQ - Quantifiers\C#\Quantifiers\obj\x86\Debug\Quantifiers.pdb
+K:\Summer 2013\CS3260\Example Progs\LINQ\LINQ - Quantifiers\C#\Quantifiers\bin\Debug\Customers.xml
+K:\Summer 2013\CS3260\Example Progs\LINQ\LINQ - Quantifiers\C#\Quantifiers\bin\Debug\Quantifiers.exe
+K:\Summer 2013\CS3260\Example Progs\LINQ\LINQ - Quantifiers\C#\Quantifiers\bin\Debug\Quantifiers.pdb
+G:\Summer 2013\CS3260\Example Progs\LINQ\LINQ - Quantifiers\C#\Quantifiers\obj\x86\Debug\Quantifiers.exe
+G:\Summer 2013\CS3260\Example Progs\LINQ\LINQ - Quantifiers\C#\Quantifiers\obj\x86\Debug\Quantifiers.pdb
+F:\Spring 2014\CS3260\Code Examples\LINQ\LINQ - Quantifiers\C#\Quantifiers\obj\x86\Debug\Quantifiers.exe
+F:\Spring 2014\CS3260\Code Examples\LINQ\LINQ - Quantifiers\C#\Quantifiers\obj\x86\Debug\Quantifiers.pdb
+P:\Spring 2014\CS3260\Code Examples\LINQ\LINQ - Quantifiers\C#\Quantifiers\bin\Debug\Customers.xml
+P:\Spring 2014\CS3260\Code Examples\LINQ\LINQ - Quantifiers\C#\Quantifiers\bin\Debug\Quantifiers.exe
+P:\Spring 2014\CS3260\Code Examples\LINQ\LINQ - Quantifiers\C#\Quantifiers\bin\Debug\Quantifiers.pdb
+P:\Spring 2014\CS3260\Code Examples\LINQ\LINQ - Quantifiers\C#\Quantifiers\obj\x86\Debug\Quantifiers.csprojResolveAssemblyReference.cache
+P:\Spring 2014\CS3260\Code Examples\LINQ\LINQ - Quantifiers\C#\Quantifiers\obj\x86\Debug\Quantifiers.exe
+P:\Spring 2014\CS3260\Code Examples\LINQ\LINQ - Quantifiers\C#\Quantifiers\obj\x86\Debug\Quantifiers.pdb

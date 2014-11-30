@@ -1,0 +1,35 @@
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\OrderingOperators\OrderingOperators\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\OrderingOperators\OrderingOperators\bin\Debug\OrderingOperators.exe
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\OrderingOperators\OrderingOperators\bin\Debug\OrderingOperators.pdb
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\OrderingOperators\OrderingOperators\obj\x86\Debug\OrderingOperators.exe
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\OrderingOperators\OrderingOperators\obj\x86\Debug\OrderingOperators.pdb
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\OrderingOperators\OrderingOperators\bin\Debug\Customers.xml
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\OrderingOperators\OrderingOperators\obj\x86\Debug\OrderingOperators.exe
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\OrderingOperators\OrderingOperators\obj\x86\Debug\OrderingOperators.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\OrderingOperators\OrderingOperators\bin\Debug\Customers.xml
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\OrderingOperators\OrderingOperators\bin\Debug\OrderingOperators.exe
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\OrderingOperators\OrderingOperators\bin\Debug\OrderingOperators.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\OrderingOperators\OrderingOperators\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Summer 2012\CS3260\Example Code\LINQ\LINQ - Ordering Operators\C#\OrderingOperators\obj\x86\Debug\OrderingOperators.exe
+K:\Summer 2012\CS3260\Example Code\LINQ\LINQ - Ordering Operators\C#\OrderingOperators\obj\x86\Debug\OrderingOperators.pdb
+K:\Summer 2012\CS3260\Example Code\LINQ\LINQ - Ordering Operators\C#\OrderingOperators\bin\Debug\Customers.xml
+K:\Summer 2012\CS3260\Example Code\LINQ\LINQ - Ordering Operators\C#\OrderingOperators\bin\Debug\OrderingOperators.exe
+K:\Summer 2012\CS3260\Example Code\LINQ\LINQ - Ordering Operators\C#\OrderingOperators\bin\Debug\OrderingOperators.pdb
+G:\Spring 2013\CS3260\Example Programs\LINQ\LINQ - Ordering Operators\C#\OrderingOperators\obj\x86\Debug\OrderingOperators.exe
+G:\Spring 2013\CS3260\Example Programs\LINQ\LINQ - Ordering Operators\C#\OrderingOperators\obj\x86\Debug\OrderingOperators.pdb
+K:\Summer 2013\CS3260\Example Progs\LINQ\LINQ - Ordering Operators\C#\OrderingOperators\obj\x86\Debug\OrderingOperators.exe
+K:\Summer 2013\CS3260\Example Progs\LINQ\LINQ - Ordering Operators\C#\OrderingOperators\obj\x86\Debug\OrderingOperators.pdb
+K:\Summer 2013\CS3260\Example Progs\LINQ\LINQ - Ordering Operators\C#\OrderingOperators\bin\Debug\Customers.xml
+K:\Summer 2013\CS3260\Example Progs\LINQ\LINQ - Ordering Operators\C#\OrderingOperators\bin\Debug\OrderingOperators.exe
+K:\Summer 2013\CS3260\Example Progs\LINQ\LINQ - Ordering Operators\C#\OrderingOperators\bin\Debug\OrderingOperators.pdb
+K:\Summer 2013\CS3260\Example Progs\LINQ\LINQ - Ordering Operators\C#\OrderingOperators\obj\x86\Debug\OrderingOperators.csprojResolveAssemblyReference.cache
+G:\Summer 2013\CS3260\Example Progs\LINQ\LINQ - Ordering Operators\C#\OrderingOperators\obj\x86\Debug\OrderingOperators.exe
+G:\Summer 2013\CS3260\Example Progs\LINQ\LINQ - Ordering Operators\C#\OrderingOperators\obj\x86\Debug\OrderingOperators.pdb
+P:\Spring 2014\CS3260\Code Examples\LINQ\LINQ - Ordering Operators\C#\OrderingOperators\obj\x86\Debug\OrderingOperators.exe
+P:\Spring 2014\CS3260\Code Examples\LINQ\LINQ - Ordering Operators\C#\OrderingOperators\obj\x86\Debug\OrderingOperators.pdb
+P:\Spring 2014\CS3260\Code Examples\LINQ\LINQ - Ordering Operators\C#\OrderingOperators\bin\Debug\Customers.xml
+P:\Spring 2014\CS3260\Code Examples\LINQ\LINQ - Ordering Operators\C#\OrderingOperators\bin\Debug\OrderingOperators.exe
+P:\Spring 2014\CS3260\Code Examples\LINQ\LINQ - Ordering Operators\C#\OrderingOperators\bin\Debug\OrderingOperators.pdb
+P:\Spring 2014\CS3260\Code Examples\LINQ\LINQ - Ordering Operators\C#\OrderingOperators\obj\x86\Debug\OrderingOperators.csprojResolveAssemblyReference.cache
+C:\Users\Colton.Parry.RESPONSE\Desktop\LINQ\LINQ - Ordering Operators\C#\OrderingOperators\obj\x86\Debug\OrderingOperators.exe
+C:\Users\Colton.Parry.RESPONSE\Desktop\LINQ\LINQ - Ordering Operators\C#\OrderingOperators\obj\x86\Debug\OrderingOperators.pdb

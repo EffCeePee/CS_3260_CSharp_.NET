@@ -1,0 +1,12 @@
+P:\Spring 2014\CS3260\Code Examples\Indexer_01\Indexer_01\bin\Debug\Indexer_01.exe.config
+P:\Spring 2014\CS3260\Code Examples\Indexer_01\Indexer_01\obj\Debug\Indexer_01.csprojResolveAssemblyReference.cache
+P:\Spring 2014\CS3260\Code Examples\Indexer_01\Indexer_01\bin\Debug\Indexer_01.exe
+P:\Spring 2014\CS3260\Code Examples\Indexer_01\Indexer_01\bin\Debug\Indexer_01.pdb
+P:\Spring 2014\CS3260\Code Examples\Indexer_01\Indexer_01\obj\Debug\Indexer_01.exe
+P:\Spring 2014\CS3260\Code Examples\Indexer_01\Indexer_01\obj\Debug\Indexer_01.pdb
+C:\Users\F\Desktop\School\CS 3260\Lab_04_FCP_V1.0\indexer\Indexer_01\Indexer_01\bin\Debug\Indexer_01.exe.config
+C:\Users\F\Desktop\School\CS 3260\Lab_04_FCP_V1.0\indexer\Indexer_01\Indexer_01\obj\Debug\Indexer_01.exe
+C:\Users\F\Desktop\School\CS 3260\Lab_04_FCP_V1.0\indexer\Indexer_01\Indexer_01\obj\Debug\Indexer_01.pdb
+C:\Users\F\Desktop\School\CS 3260\Lab_04_FCP_V1.0\indexer\Indexer_01\Indexer_01\bin\Debug\Indexer_01.exe
+C:\Users\F\Desktop\School\CS 3260\Lab_04_FCP_V1.0\indexer\Indexer_01\Indexer_01\bin\Debug\Indexer_01.pdb
+C:\Users\F\Desktop\School\CS 3260\Lab_04_FCP_V1.0\indexer\Indexer_01\Indexer_01\obj\Debug\Indexer_01.csprojResolveAssemblyReference.cache

@@ -1,0 +1,32 @@
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\ElementOperators\ElementOperators\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\ElementOperators\ElementOperators\bin\Debug\Customers.xml
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\ElementOperators\ElementOperators\bin\Debug\ElementOperators.exe
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\ElementOperators\ElementOperators\bin\Debug\ElementOperators.pdb
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\ElementOperators\ElementOperators\obj\x86\Debug\ElementOperators.exe
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\ElementOperators\ElementOperators\obj\x86\Debug\ElementOperators.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\ElementOperators\ElementOperators\obj\x86\Debug\ElementOperators.exe
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\ElementOperators\ElementOperators\obj\x86\Debug\ElementOperators.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\ElementOperators\ElementOperators\bin\Debug\Customers.xml
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\ElementOperators\ElementOperators\bin\Debug\ElementOperators.exe
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\ElementOperators\ElementOperators\bin\Debug\ElementOperators.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\ElementOperators\ElementOperators\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Summer 2012\CS3260\Example Code\LINQ\LINQ - Element Operators\C#\ElementOperators\obj\x86\Debug\ElementOperators.exe
+K:\Summer 2012\CS3260\Example Code\LINQ\LINQ - Element Operators\C#\ElementOperators\obj\x86\Debug\ElementOperators.pdb
+K:\Summer 2012\CS3260\Example Code\LINQ\LINQ - Element Operators\C#\ElementOperators\bin\Debug\Customers.xml
+K:\Summer 2012\CS3260\Example Code\LINQ\LINQ - Element Operators\C#\ElementOperators\bin\Debug\ElementOperators.exe
+K:\Summer 2012\CS3260\Example Code\LINQ\LINQ - Element Operators\C#\ElementOperators\bin\Debug\ElementOperators.pdb
+G:\Spring 2013\CS3260\Example Programs\LINQ\LINQ - Element Operators\C#\ElementOperators\obj\x86\Debug\ElementOperators.exe
+G:\Spring 2013\CS3260\Example Programs\LINQ\LINQ - Element Operators\C#\ElementOperators\obj\x86\Debug\ElementOperators.pdb
+K:\Summer 2013\CS3260\Example Progs\LINQ\LINQ - Element Operators\C#\ElementOperators\obj\x86\Debug\ElementOperators.exe
+K:\Summer 2013\CS3260\Example Progs\LINQ\LINQ - Element Operators\C#\ElementOperators\obj\x86\Debug\ElementOperators.pdb
+K:\Summer 2013\CS3260\Example Progs\LINQ\LINQ - Element Operators\C#\ElementOperators\bin\Debug\Customers.xml
+K:\Summer 2013\CS3260\Example Progs\LINQ\LINQ - Element Operators\C#\ElementOperators\bin\Debug\ElementOperators.exe
+K:\Summer 2013\CS3260\Example Progs\LINQ\LINQ - Element Operators\C#\ElementOperators\bin\Debug\ElementOperators.pdb
+G:\Summer 2013\CS3260\Example Progs\LINQ\LINQ - Element Operators\C#\ElementOperators\obj\x86\Debug\ElementOperators.exe
+G:\Summer 2013\CS3260\Example Progs\LINQ\LINQ - Element Operators\C#\ElementOperators\obj\x86\Debug\ElementOperators.pdb
+P:\Spring 2014\CS3260\Code Examples\LINQ\LINQ - Element Operators\C#\ElementOperators\obj\x86\Debug\ElementOperators.exe
+P:\Spring 2014\CS3260\Code Examples\LINQ\LINQ - Element Operators\C#\ElementOperators\obj\x86\Debug\ElementOperators.pdb
+P:\Spring 2014\CS3260\Code Examples\LINQ\LINQ - Element Operators\C#\ElementOperators\bin\Debug\Customers.xml
+P:\Spring 2014\CS3260\Code Examples\LINQ\LINQ - Element Operators\C#\ElementOperators\bin\Debug\ElementOperators.exe
+P:\Spring 2014\CS3260\Code Examples\LINQ\LINQ - Element Operators\C#\ElementOperators\bin\Debug\ElementOperators.pdb
+P:\Spring 2014\CS3260\Code Examples\LINQ\LINQ - Element Operators\C#\ElementOperators\obj\x86\Debug\ElementOperators.csprojResolveAssemblyReference.cache

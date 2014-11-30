@@ -1,0 +1,6 @@
+C:\Users\F\Desktop\School\CS 3260\Demo_02\Demo_02\bin\Debug\Demo_02.exe.config
+C:\Users\F\Desktop\School\CS 3260\Demo_02\Demo_02\bin\Debug\Demo_02.exe
+C:\Users\F\Desktop\School\CS 3260\Demo_02\Demo_02\bin\Debug\Demo_02.pdb
+C:\Users\F\Desktop\School\CS 3260\Demo_02\Demo_02\obj\Debug\Demo_02.csprojResolveAssemblyReference.cache
+C:\Users\F\Desktop\School\CS 3260\Demo_02\Demo_02\obj\Debug\Demo_02.exe
+C:\Users\F\Desktop\School\CS 3260\Demo_02\Demo_02\obj\Debug\Demo_02.pdb

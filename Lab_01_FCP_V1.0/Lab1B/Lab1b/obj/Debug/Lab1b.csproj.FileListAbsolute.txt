@@ -1,0 +1,6 @@
+C:\Users\F\Desktop\School\CS 3260\Lab1b\Lab1b\bin\Debug\Lab1b.exe.config
+C:\Users\F\Desktop\School\CS 3260\Lab1b\Lab1b\bin\Debug\Lab1b.exe
+C:\Users\F\Desktop\School\CS 3260\Lab1b\Lab1b\bin\Debug\Lab1b.pdb
+C:\Users\F\Desktop\School\CS 3260\Lab1b\Lab1b\obj\Debug\Lab1b.csprojResolveAssemblyReference.cache
+C:\Users\F\Desktop\School\CS 3260\Lab1b\Lab1b\obj\Debug\Lab1b.exe
+C:\Users\F\Desktop\School\CS 3260\Lab1b\Lab1b\obj\Debug\Lab1b.pdb

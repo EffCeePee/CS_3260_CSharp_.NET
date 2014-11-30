@@ -1,0 +1,6 @@
+C:\Users\F\Desktop\School\CS 3260\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\F\Desktop\School\CS 3260\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\F\Desktop\School\CS 3260\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\F\Desktop\School\CS 3260\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\F\Desktop\School\CS 3260\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\F\Desktop\School\CS 3260\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

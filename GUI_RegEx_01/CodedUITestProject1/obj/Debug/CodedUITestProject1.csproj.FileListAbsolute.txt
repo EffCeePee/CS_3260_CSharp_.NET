@@ -1,0 +1,4 @@
+F:\Spring 2014\CS3260\Code Examples\GUI_RegEx_01\CodedUITestProject1\bin\Debug\CodedUITestProject1.dll
+F:\Spring 2014\CS3260\Code Examples\GUI_RegEx_01\CodedUITestProject1\bin\Debug\CodedUITestProject1.pdb
+F:\Spring 2014\CS3260\Code Examples\GUI_RegEx_01\CodedUITestProject1\obj\Debug\CodedUITestProject1.dll
+F:\Spring 2014\CS3260\Code Examples\GUI_RegEx_01\CodedUITestProject1\obj\Debug\CodedUITestProject1.pdb

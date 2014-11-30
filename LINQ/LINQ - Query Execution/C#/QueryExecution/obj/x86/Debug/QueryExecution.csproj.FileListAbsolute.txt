@@ -1,0 +1,23 @@
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\QueryExecution\QueryExecution\bin\Debug\QueryExecution.exe
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\QueryExecution\QueryExecution\bin\Debug\QueryExecution.pdb
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\QueryExecution\QueryExecution\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\QueryExecution\QueryExecution\obj\x86\Debug\QueryExecution.exe
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\Grouped LINQ Samples\QueryExecution\QueryExecution\obj\x86\Debug\QueryExecution.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\QueryExecution\QueryExecution\obj\x86\Debug\QueryExecution.exe
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\QueryExecution\QueryExecution\obj\x86\Debug\QueryExecution.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\QueryExecution\QueryExecution\bin\Debug\QueryExecution.exe
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\QueryExecution\QueryExecution\bin\Debug\QueryExecution.pdb
+C:\Users\v-luplas\Desktop\Migration Work\Second Part\Linq Samples\QueryExecution\QueryExecution\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Summer 2012\CS3260\Example Code\LINQ\LINQ - Query Execution\C#\QueryExecution\obj\x86\Debug\QueryExecution.exe
+K:\Summer 2012\CS3260\Example Code\LINQ\LINQ - Query Execution\C#\QueryExecution\obj\x86\Debug\QueryExecution.pdb
+K:\Summer 2012\CS3260\Example Code\LINQ\LINQ - Query Execution\C#\QueryExecution\bin\Debug\QueryExecution.exe
+K:\Summer 2012\CS3260\Example Code\LINQ\LINQ - Query Execution\C#\QueryExecution\bin\Debug\QueryExecution.pdb
+G:\Summer 2012\CS3260\Example Code\LINQ\LINQ - Query Execution\C#\QueryExecution\obj\x86\Debug\QueryExecution.exe
+G:\Summer 2012\CS3260\Example Code\LINQ\LINQ - Query Execution\C#\QueryExecution\obj\x86\Debug\QueryExecution.pdb
+G:\Spring 2013\CS3260\Example Programs\LINQ\LINQ - Query Execution\C#\QueryExecution\obj\x86\Debug\QueryExecution.exe
+G:\Spring 2013\CS3260\Example Programs\LINQ\LINQ - Query Execution\C#\QueryExecution\obj\x86\Debug\QueryExecution.pdb
+P:\Spring 2014\CS3260\Code Examples\LINQ\LINQ - Query Execution\C#\QueryExecution\bin\Debug\QueryExecution.exe
+P:\Spring 2014\CS3260\Code Examples\LINQ\LINQ - Query Execution\C#\QueryExecution\bin\Debug\QueryExecution.pdb
+P:\Spring 2014\CS3260\Code Examples\LINQ\LINQ - Query Execution\C#\QueryExecution\obj\x86\Debug\QueryExecution.csprojResolveAssemblyReference.cache
+P:\Spring 2014\CS3260\Code Examples\LINQ\LINQ - Query Execution\C#\QueryExecution\obj\x86\Debug\QueryExecution.exe
+P:\Spring 2014\CS3260\Code Examples\LINQ\LINQ - Query Execution\C#\QueryExecution\obj\x86\Debug\QueryExecution.pdb

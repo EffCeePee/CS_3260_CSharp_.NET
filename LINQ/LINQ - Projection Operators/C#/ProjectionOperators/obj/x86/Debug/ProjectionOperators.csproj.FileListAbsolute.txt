@@ -1,0 +1,28 @@
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\Grouped LINQ Samples\LINQ over DataSets\ProjectionOperators\ProjectionOperators\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\Grouped LINQ Samples\LINQ over DataSets\ProjectionOperators\ProjectionOperators\bin\Debug\ProjectionOperators.exe
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\Grouped LINQ Samples\LINQ over DataSets\ProjectionOperators\ProjectionOperators\bin\Debug\ProjectionOperators.pdb
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\Grouped LINQ Samples\LINQ over DataSets\ProjectionOperators\ProjectionOperators\obj\x86\Debug\ProjectionOperators.exe
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\Grouped LINQ Samples\LINQ over DataSets\ProjectionOperators\ProjectionOperators\obj\x86\Debug\ProjectionOperators.pdb
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\Grouped LINQ Samples\LINQ over DataSets\ProjectionOperators\ProjectionOperators\bin\Debug\Customers.xml
+K:\Summer 2012\CS3260\Example Code\LINQ\LINQ - Projection Operators\C#\ProjectionOperators\obj\x86\Debug\ProjectionOperators.exe
+K:\Summer 2012\CS3260\Example Code\LINQ\LINQ - Projection Operators\C#\ProjectionOperators\obj\x86\Debug\ProjectionOperators.pdb
+K:\Summer 2012\CS3260\Example Code\LINQ\LINQ - Projection Operators\C#\ProjectionOperators\bin\Debug\Customers.xml
+K:\Summer 2012\CS3260\Example Code\LINQ\LINQ - Projection Operators\C#\ProjectionOperators\bin\Debug\ProjectionOperators.exe
+K:\Summer 2012\CS3260\Example Code\LINQ\LINQ - Projection Operators\C#\ProjectionOperators\bin\Debug\ProjectionOperators.pdb
+G:\Spring 2013\CS3260\Example Programs\LINQ\LINQ - Projection Operators\C#\ProjectionOperators\obj\x86\Debug\ProjectionOperators.exe
+G:\Spring 2013\CS3260\Example Programs\LINQ\LINQ - Projection Operators\C#\ProjectionOperators\obj\x86\Debug\ProjectionOperators.pdb
+K:\Summer 2013\CS3260\Example Progs\LINQ\LINQ - Projection Operators\C#\ProjectionOperators\obj\x86\Debug\ProjectionOperators.exe
+K:\Summer 2013\CS3260\Example Progs\LINQ\LINQ - Projection Operators\C#\ProjectionOperators\obj\x86\Debug\ProjectionOperators.pdb
+K:\Summer 2013\CS3260\Example Progs\LINQ\LINQ - Projection Operators\C#\ProjectionOperators\bin\Debug\Customers.xml
+K:\Summer 2013\CS3260\Example Progs\LINQ\LINQ - Projection Operators\C#\ProjectionOperators\bin\Debug\ProjectionOperators.exe
+K:\Summer 2013\CS3260\Example Progs\LINQ\LINQ - Projection Operators\C#\ProjectionOperators\bin\Debug\ProjectionOperators.pdb
+G:\Summer 2013\CS3260\Example Progs\LINQ\LINQ - Projection Operators\C#\ProjectionOperators\obj\x86\Debug\ProjectionOperators.exe
+G:\Summer 2013\CS3260\Example Progs\LINQ\LINQ - Projection Operators\C#\ProjectionOperators\obj\x86\Debug\ProjectionOperators.pdb
+P:\Spring 2014\CS3260\Code Examples\LINQ\LINQ - Projection Operators\C#\ProjectionOperators\obj\x86\Debug\ProjectionOperators.exe
+P:\Spring 2014\CS3260\Code Examples\LINQ\LINQ - Projection Operators\C#\ProjectionOperators\obj\x86\Debug\ProjectionOperators.pdb
+P:\Spring 2014\CS3260\Code Examples\LINQ\LINQ - Projection Operators\C#\ProjectionOperators\bin\Debug\Customers.xml
+P:\Spring 2014\CS3260\Code Examples\LINQ\LINQ - Projection Operators\C#\ProjectionOperators\bin\Debug\ProjectionOperators.exe
+P:\Spring 2014\CS3260\Code Examples\LINQ\LINQ - Projection Operators\C#\ProjectionOperators\bin\Debug\ProjectionOperators.pdb
+P:\Spring 2014\CS3260\Code Examples\LINQ\LINQ - Projection Operators\C#\ProjectionOperators\obj\x86\Debug\ProjectionOperators.csprojResolveAssemblyReference.cache
+C:\Users\Colton.Parry.RESPONSE\Desktop\LINQ\LINQ - Projection Operators\C#\ProjectionOperators\obj\x86\Debug\ProjectionOperators.exe
+C:\Users\Colton.Parry.RESPONSE\Desktop\LINQ\LINQ - Projection Operators\C#\ProjectionOperators\obj\x86\Debug\ProjectionOperators.pdb

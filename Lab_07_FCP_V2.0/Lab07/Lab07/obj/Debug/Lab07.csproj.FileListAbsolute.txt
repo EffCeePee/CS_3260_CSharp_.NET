@@ -1,0 +1,19 @@
+C:\Users\F\Desktop\School\CS 3260\Lab07\Lab07\bin\Debug\Lab07.exe.config
+C:\Users\F\Desktop\School\CS 3260\Lab07\Lab07\bin\Debug\Lab07.exe
+C:\Users\F\Desktop\School\CS 3260\Lab07\Lab07\bin\Debug\Lab07.pdb
+C:\Users\F\Desktop\School\CS 3260\Lab07\Lab07\obj\Debug\Lab07.csprojResolveAssemblyReference.cache
+C:\Users\F\Desktop\School\CS 3260\Lab07\Lab07\obj\Debug\Lab07.Properties.Resources.resources
+C:\Users\F\Desktop\School\CS 3260\Lab07\Lab07\obj\Debug\Lab07.csproj.GenerateResource.Cache
+C:\Users\F\Desktop\School\CS 3260\Lab07\Lab07\obj\Debug\Lab07.exe
+C:\Users\F\Desktop\School\CS 3260\Lab07\Lab07\obj\Debug\Lab07.pdb
+C:\Users\F\Desktop\School\CS 3260\Lab07\Lab07\obj\Debug\Employee_Form.Form_Employee.resources
+C:\Users\F\Desktop\School\CS 3260\Lab07\Lab07\obj\Debug\employee.Properties.Resources.resources
+C:\Users\Dennis\Desktop\Lab07\Lab07\Lab07\bin\Debug\Lab07.exe.config
+C:\Users\Dennis\Desktop\Lab07\Lab07\Lab07\obj\Debug\Lab07.pdb
+C:\Users\Dennis\Desktop\Lab07\Lab07\Lab07\obj\Debug\Lab07.csprojResolveAssemblyReference.cache
+C:\Users\Dennis\Desktop\Lab07\Lab07\Lab07\obj\Debug\Employee_Form.Form_Employee.resources
+C:\Users\Dennis\Desktop\Lab07\Lab07\Lab07\obj\Debug\employee.Properties.Resources.resources
+C:\Users\Dennis\Desktop\Lab07\Lab07\Lab07\obj\Debug\Lab07.csproj.GenerateResource.Cache
+C:\Users\Dennis\Desktop\Lab07\Lab07\Lab07\bin\Debug\Lab07.exe
+C:\Users\Dennis\Desktop\Lab07\Lab07\Lab07\bin\Debug\Lab07.pdb
+C:\Users\Dennis\Desktop\Lab07\Lab07\Lab07\obj\Debug\Lab07.exe

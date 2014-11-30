@@ -1,0 +1,18 @@
+C:\Users\Colton.Parry.RESPONSE\Documents\App\VS\Lab8\Lab8\bin\Debug\Lab8.exe.config
+C:\Users\Colton.Parry.RESPONSE\Documents\App\VS\Lab8\Lab8\obj\Debug\Lab8.csprojResolveAssemblyReference.cache
+C:\Users\Colton.Parry.RESPONSE\Documents\App\VS\Lab8\Lab8\obj\Debug\Employee_Form.Form_Employee.resources
+C:\Users\Colton.Parry.RESPONSE\Documents\App\VS\Lab8\Lab8\obj\Debug\Lab8.csproj.GenerateResource.Cache
+C:\Users\Colton.Parry.RESPONSE\Documents\App\VS\Lab8\Lab8\bin\Debug\Lab8.exe
+C:\Users\Colton.Parry.RESPONSE\Documents\App\VS\Lab8\Lab8\bin\Debug\Lab8.pdb
+C:\Users\Colton.Parry.RESPONSE\Documents\App\VS\Lab8\Lab8\obj\Debug\Employee_Form.Properties.Resources.resources
+C:\Users\Colton.Parry.RESPONSE\Documents\App\VS\Lab8\Lab8\obj\Debug\Lab8.exe
+C:\Users\Colton.Parry.RESPONSE\Documents\App\VS\Lab8\Lab8\obj\Debug\Lab8.pdb
+C:\Users\F\Desktop\School\CS 3260\Lab8\Lab8\Lab8\bin\Debug\Lab8.exe.config
+C:\Users\F\Desktop\School\CS 3260\Lab8\Lab8\Lab8\obj\Debug\Lab8.exe
+C:\Users\F\Desktop\School\CS 3260\Lab8\Lab8\Lab8\obj\Debug\Lab8.pdb
+C:\Users\F\Desktop\School\CS 3260\Lab8\Lab8\Lab8\bin\Debug\Lab8.exe
+C:\Users\F\Desktop\School\CS 3260\Lab8\Lab8\Lab8\bin\Debug\Lab8.pdb
+C:\Users\F\Desktop\School\CS 3260\Lab8\Lab8\Lab8\obj\Debug\Lab8.csprojResolveAssemblyReference.cache
+C:\Users\F\Desktop\School\CS 3260\Lab8\Lab8\Lab8\obj\Debug\Employee_Form.Form_Employee.resources
+C:\Users\F\Desktop\School\CS 3260\Lab8\Lab8\Lab8\obj\Debug\Employee_Form.Properties.Resources.resources
+C:\Users\F\Desktop\School\CS 3260\Lab8\Lab8\Lab8\obj\Debug\Lab8.csproj.GenerateResource.Cache

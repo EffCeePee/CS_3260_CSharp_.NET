@@ -1,0 +1,9 @@
+C:\Users\F\Desktop\School\CS 3260\FileStreaming\FileStreaming\bin\Debug\FileStreaming.exe.config
+C:\Users\F\Desktop\School\CS 3260\FileStreaming\FileStreaming\bin\Debug\FileStreaming.exe
+C:\Users\F\Desktop\School\CS 3260\FileStreaming\FileStreaming\bin\Debug\FileStreaming.pdb
+C:\Users\F\Desktop\School\CS 3260\FileStreaming\FileStreaming\obj\Debug\FileStreaming.csprojResolveAssemblyReference.cache
+C:\Users\F\Desktop\School\CS 3260\FileStreaming\FileStreaming\obj\Debug\FileStreaming.Form1.resources
+C:\Users\F\Desktop\School\CS 3260\FileStreaming\FileStreaming\obj\Debug\FileStreaming.Properties.Resources.resources
+C:\Users\F\Desktop\School\CS 3260\FileStreaming\FileStreaming\obj\Debug\FileStreaming.csproj.GenerateResource.Cache
+C:\Users\F\Desktop\School\CS 3260\FileStreaming\FileStreaming\obj\Debug\FileStreaming.exe
+C:\Users\F\Desktop\School\CS 3260\FileStreaming\FileStreaming\obj\Debug\FileStreaming.pdb

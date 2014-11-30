@@ -1,0 +1,6 @@
+C:\Users\F\Desktop\School\CS 3260\Test\Test\bin\Debug\Test.exe.config
+C:\Users\F\Desktop\School\CS 3260\Test\Test\bin\Debug\Test.exe
+C:\Users\F\Desktop\School\CS 3260\Test\Test\bin\Debug\Test.pdb
+C:\Users\F\Desktop\School\CS 3260\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\F\Desktop\School\CS 3260\Test\Test\obj\Debug\Test.exe
+C:\Users\F\Desktop\School\CS 3260\Test\Test\obj\Debug\Test.pdb
